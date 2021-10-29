@@ -1,0 +1,184 @@
+/* ここから下に記載していく */
+.hako{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a{height: 85px;
+    width: 400px;
+    background-repeat: no-repeat;
+    align-self: start;
+}
+
+.obox01 a{
+    height: auto;
+    width: auto;
+    color: #222222;
+    font-size: 21px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.obox1{width: 100%;
+       height: auto;
+       background: url(../img/mainbg.png) no-repeat center;
+       background-size: cover;
+       padding-top: 100px;
+       padding-bottom: 100px;
+       box-sizing: border-box;
+                  }
+                  
+.b{
+    color: white;
+    font-style: inherit;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+
+.c{
+    color: white;
+    font-style: inherit;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.obox2{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+.d{
+    color: #ffd61a;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.about-line{
+    color: #222222;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+.about-line1{
+    color: #222222;
+    font-size: 16px;
+    margin-bottom: 40px;
+    line-height: 24px;
+} 
+.about-line2{
+    color: #222222;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.obox3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-size: cover;
+}
+
+.obox3-photo{
+    width: 25%;
+}
+.obox3-photo img{
+    width: 100%;
+}
+.obox4{
+    text-align: center;
+}
+.k{
+    font-size: 24px;
+    color: #222222;
+    margin-top: 60px;
+}
+
+.l{
+font-size: 16px;
+color: #222222;
+margin-top: 30px;
+}
+
+.m{
+    font-size: 16px;
+    color: #222222;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.obox5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.photo5{
+    height: 384px;
+    width: auto;
+}
+
+.box1{
+    width: 50%;
+    height: 384px;
+    background-color: #b1adad;
+    text-align: left;
+}
+
+.course-text{
+    font-size: 16px;
+    color: #222222;
+    padding-left: 50px;
+}
+
+.course-text2{
+    font-size: 16px;
+    color: #222222;
+}
+
+.large{
+    padding-top: 120px;
+    padding-bottom: 40px;;
+    font-size: 24px;    
+}
+.obox6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box8{
+    width: 50%;
+    height: 384px;
+    background-color: #b1adad;
+}
+
+.box9{
+    font-size: 24px;
+    color: #222222;
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 200px;
+}
+.photo6{
+    height: 384px;
+    width: 50%;
+}
+.slider{
+    margin: 100px auto;
+    width: 80%;
+}
+.slider img{
+    height: auto;
+    width: 25%;
+}
+.slick-prev:before,
+.slick-next:before {
+    color: #000;
+}
